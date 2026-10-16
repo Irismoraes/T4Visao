@@ -81,13 +81,11 @@ O melhor *k* na validação cruzada foi **5**. No conjunto de teste, o modelo ac
 
 ## Como executar
 
-Instale as dependências:
 
 ```bash
 pip install pandas matplotlib scikit-learn
 ```
 
-Rode o script:
 
 ```bash
 python3 analiseClassificacao.py
@@ -99,10 +97,10 @@ As estatísticas e os resultados aparecem no terminal, e os seis gráficos são 
 
 ```
 iris_classificacao/
-├── analiseClassificacao.py      # código de todas as etapas
+├── analiseClassificacao.py     
 ├── README.md
 ├── imagens/
-│   └── banner.png               # fotos das três espécies
+│   └── banner.png              
 ├── relacao_sepala.png
 ├── relacao_petala.png
 ├── distribuicao_variaveis.png
@@ -118,8 +116,6 @@ iris_classificacao/
 - Pedregosa, F. et al. *Scikit-learn: Machine Learning in Python*. Journal of Machine Learning Research, 12, 2825–2830, 2011.
 
 ## Créditos das fotos
-
-As fotos do banner vêm do Wikimedia Commons e foram recortadas:
 
 - *Iris setosa*: Radomil, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg)
 - *Iris versicolor*: Dlanglois, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Iris_versicolor_3.jpg)
