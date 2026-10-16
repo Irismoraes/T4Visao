@@ -1,6 +1,6 @@
 <div align="center">
 
-# Análise Exploratória e Classificação do Conjunto de Dados Iris com K-NN
+# Análise e Classificação do Conjunto de Dados Iris com K-NN
 
 <img src="imagens/banner.png" alt="Fotos das três espécies: Iris setosa, Iris versicolor e Iris virginica" width="100%">
 
