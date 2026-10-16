@@ -16,7 +16,7 @@
 
 Este projeto analisa o conjunto de dados **Iris** ([Fisher, 1936](https://doi.org/10.1111/j.1469-1809.1936.tb02137.x); [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)) e classifica suas três espécies de flores com o algoritmo **K-NN** (*k-nearest neighbors*).
 
-O conjunto tem **150 flores**, 50 de cada espécie, descritas por quatro medidas em centímetros:
+O conjunto tem 150 flores, 50 de cada espécie, descritas por quatro medidas em centímetros:
 
 | Variável | Descrição |
 |:--|:--|
@@ -30,12 +30,12 @@ O conjunto tem **150 flores**, 50 de cada espécie, descritas por quatro medidas
 | Etapa | O que é feito |
 |:--:|:--|
 | **1** | Média, desvio padrão e moda de cada variável, no geral e por espécie, e frequência de cada espécie |
-| **2** | Relação entre comprimento e largura da **sépala** por espécie (dispersão e correlação de Pearson) |
-| **3** | Relação entre comprimento e largura da **pétala** por espécie |
+| **2** | Relação entre comprimento e largura da sépala por espécie (dispersão e correlação de Pearson) |
+| **3** | Relação entre comprimento e largura da pétala por espécie |
 | **4** | Distribuição das espécies nas quatro dimensões (histogramas) |
 | **5** | **PCA**: projeção dos dados padronizados em dois componentes principais |
-| **6** | Divisão estratificada em **80% treino** e **20% teste** |
-| **7** | **K-NN**: escolha de *k* por validação cruzada no treino e avaliação no teste |
+| **6** | Divisão estratificada em 80% treino e 20% teste|
+| **7** | **K-NN**: escolha de k por validação cruzada no treino e avaliação no teste |
 
 ## Resultados
 
