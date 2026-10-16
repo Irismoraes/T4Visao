@@ -41,7 +41,7 @@ O conjunto tem **150 flores**, 50 de cada espécie, descritas por quatro medidas
 
 ### Relação comprimento × largura
 
-A **sépala** separa bem só a setosa. Na **pétala**, as três espécies ficam praticamente separadas.
+A sépala separa bem só a setosa. Na pétala, as três espécies ficam praticamente separadas.
 
 <p align="center">
   <img src="relacao_sepala.png" width="48%">
@@ -58,7 +58,7 @@ As medidas da pétala são as que melhor distinguem as espécies.
 
 ### PCA
 
-Os dois primeiros componentes guardam **95,8%** da variância (PC1: 73,0%, PC2: 22,9%). A setosa fica completamente isolada, e versicolor e virginica se sobrepõem um pouco.
+Os dois primeiros componentes guardam 95,8% da variância (PC1: 73,0%, PC2: 22,9%). A setosa fica completamente isolada, e versicolor e virginica se sobrepõem um pouco.
 
 <p align="center">
   <img src="pca.png" width="55%">
@@ -66,7 +66,7 @@ Os dois primeiros componentes guardam **95,8%** da variância (PC1: 73,0%, PC2: 
 
 ### K-NN
 
-O melhor *k* na validação cruzada foi **5**. No conjunto de teste, o modelo acertou **28 de 30 flores (93,3%)**. A setosa não teve nenhum erro, e os dois erros foram virginicas classificadas como versicolor.
+O melhor *k* na validação cruzada foi 5. No conjunto de teste, o modelo acertou 28 de 30 flores (93,3%). A setosa não teve nenhum erro, e os dois erros foram virginicas classificadas como versicolor.
 
 <p align="center">
   <img src="knn_acuracia_por_k.png" width="48%">
