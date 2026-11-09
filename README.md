@@ -2,7 +2,7 @@
 
 # Análise e Classificação do Conjunto de Dados Iris com K-NN
 
-<img src="imagens/banner.png" alt="Fotos das três espécies: Iris setosa, Iris versicolor e Iris virginica" width="100%">
+<img src="imagens/Texto do seu parágrafo.png" alt="Fotos das três espécies: Iris setosa, Iris versicolor e Iris virginica" width="100%">
 
 ![Python](https://img.shields.io/badge/Python-3.12-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9-FF69B4?style=for-the-badge&logo=scikitlearn&logoColor=white)
